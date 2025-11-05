@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+simpleaudio
+numpy
